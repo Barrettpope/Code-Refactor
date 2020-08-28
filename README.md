@@ -7,11 +7,11 @@
 * [Support](#support)
 
 ## Description
-Code-Refractor is an improved codebase that ensures web accessibility and optimal code organization, ultimately optomizing the functionality of the already existing webpage.
+Code-Refactor is an improved codebase that ensures web accessibility and semantic structuring, ultimately optomizing the functionality of the already existing webpage.
 
 ## Visuals
-![](public/assets/index.png)
-![](public/assets/notes.png)
+![](assets/images/image1.png)
+![](assets/images/image2.png)
 
 ## Deployed Application
 https://barrettpope.github.io/Code-Refactor/
@@ -20,4 +20,4 @@ https://barrettpope.github.io/Code-Refactor/
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 
 
 ## Support
-For questions, comments or concerns regarding the Note-Taker application, please email barrettpope94@gmail.com.
+For questions, comments or concerns regarding the Code-Refactor, please email barrettpope94@gmail.com.
